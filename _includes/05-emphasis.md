@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# This is an empesis page
+
+a simple test of **empesis** word in a _italic_ file
+
+- this is the first item in the list
+- this is the second item in the list
+
